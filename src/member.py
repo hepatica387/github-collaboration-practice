@@ -10,3 +10,5 @@ def add_member(name, age):
     members.append(member)
 
     return member
+def get_members():
+    return members

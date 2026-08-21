@@ -1,5 +1,6 @@
 members = []
 
+MAX_MEMBER_COUNT = 100
 
 def add_member(name, age):
     member = {
